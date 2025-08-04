@@ -7,7 +7,7 @@ export default function GallerySection() {
             Gallery
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Explore the AeroDrone X1 from every angle - from construction details to flight captures
+            Explore the FireHawk from every angle - from construction details to flight captures
           </p>
         </div>
 
@@ -18,7 +18,7 @@ export default function GallerySection() {
             <div className="group relative overflow-hidden rounded-xl glass-effect h-96 lg:h-full">
               <img 
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600" 
-                alt="AeroDrone X1 in flight" 
+                alt="FireHawk in flight" 
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" 
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">

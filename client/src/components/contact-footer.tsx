@@ -99,7 +99,7 @@ export default function ContactFooter() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 3v17.25m0 0c-1.472 0-2.882.265-4.185.75M12 20.25c1.472 0 2.882.265 4.185.75M18.75 4.97A48.254 48.254 0 0 0 12 4.5c-2.291 0-4.344.347-6.75.97m15 0c-.002 0-.006.001-.008.001A47.875 47.875 0 0 0 12 4.5c-2.291 0-4.344.347-6.75.97" />
                 </svg>
               </div>
-              <span className="font-semibold">AeroDrone X1</span>
+              <span className="font-semibold">FireHawk</span>
             </div>
             
             <div className="text-gray-400 text-sm">

@@ -53,9 +53,9 @@ export default function CodeSection() {
 
                 {/* Repository Info */}
                 <div className="flex-1">
-                  <h3 className="text-2xl font-semibold mb-4">AeroDrone-X1</h3>
+                  <h3 className="text-2xl font-semibold mb-4">FireHawk</h3>
                   <p className="text-gray-300 mb-6">
-                    Complete source code for the AeroDrone X1 autonomous drone system. 
+                    Complete source code for the FireHawk autonomous drone system. 
                     Includes flight control software, navigation algorithms, video streaming protocols, 
                     and hardware interface libraries.
                   </p>
@@ -100,7 +100,7 @@ export default function CodeSection() {
                         asChild
                         className="gradient-border-content w-full px-6 py-3 flex items-center justify-center space-x-2 group-hover:bg-gradient-to-r group-hover:from-[var(--cyber-blue)]/10 group-hover:to-[var(--cyber-purple)]/10 transition-all duration-300 bg-transparent hover:bg-transparent border-0"
                       >
-                        <a href="https://github.com/username/aerodrone-x1" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/username/firehawk" target="_blank" rel="noopener noreferrer">
                           <Github className="w-5 h-5" />
                           <span className="font-semibold">View Repository</span>
                         </a>

@@ -22,7 +22,7 @@ export default function HeroSection() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center animate-slide-up">
         <h1 className="font-bold text-5xl md:text-7xl lg:text-8xl mb-6 bg-gradient-to-r from-[var(--cyber-blue)] via-white to-[var(--cyber-purple)] bg-clip-text text-transparent">
-          AeroDrone X1
+          FireHawk
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
           Next-generation autonomous drone with advanced GPS navigation, real-time video streaming, 
@@ -52,7 +52,7 @@ export default function HeroSection() {
         {/* Technical Specs Preview */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-2xl mx-auto">
           <div className="glass-effect p-4 rounded-lg text-center">
-            <div className="text-2xl font-bold text-[var(--cyber-blue)]">4K</div>
+            <div className="text-2xl font-bold text-[var(--cyber-blue)]">HD</div>
             <div className="text-sm text-gray-400">Video Quality</div>
           </div>
           <div className="glass-effect p-4 rounded-lg text-center">
@@ -60,7 +60,7 @@ export default function HeroSection() {
             <div className="text-sm text-gray-400">Flight Time</div>
           </div>
           <div className="glass-effect p-4 rounded-lg text-center">
-            <div className="text-2xl font-bold text-[var(--cyber-blue)]">10km</div>
+            <div className="text-2xl font-bold text-[var(--cyber-blue)]">2km</div>
             <div className="text-sm text-gray-400">Range</div>
           </div>
           <div className="glass-effect p-4 rounded-lg text-center">

@@ -47,8 +47,8 @@ export default function FeaturesSection() {
                   <Video className="w-6 h-6" />
                 </div>
                 <div>
-                  <h3 className="text-xl font-semibold mb-2">4K Video Streaming</h3>
-                  <p className="text-gray-400">Ultra HD video streaming with real-time transmission. Low-latency FPV for immersive flight experience and professional aerial cinematography.</p>
+                  <h3 className="text-xl font-semibold mb-2">HD Video Streaming</h3>
+                  <p className="text-gray-400">High-definition video streaming with real-time transmission. Low-latency FPV for immersive flight experience and professional aerial cinematography.</p>
                 </div>
               </div>
             </div>
@@ -93,7 +93,7 @@ export default function FeaturesSection() {
             </div>
             <h3 className="text-xl font-semibold mb-2">Range</h3>
             <p className="text-gray-400 mb-4">Extended control range with robust signal transmission and automatic return-to-home</p>
-            <div className="text-[var(--cyber-blue)] font-mono font-semibold">10 kilometers</div>
+            <div className="text-[var(--cyber-blue)] font-mono font-semibold">2 kilometers</div>
           </div>
         </div>
       </div>

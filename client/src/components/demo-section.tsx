@@ -7,7 +7,7 @@ export default function DemoSection() {
             Live Demo
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Watch the AeroDrone X1 in action - autonomous flight, real-time streaming, and advanced maneuvers
+            Watch the FireHawk in action - autonomous flight, real-time streaming, and advanced maneuvers
           </p>
         </div>
 
@@ -19,7 +19,7 @@ export default function DemoSection() {
                 <iframe 
                   className="w-full h-full" 
                   src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-                  title="AeroDrone X1 Demo Video" 
+                  title="FireHawk Demo Video" 
                   frameBorder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                   allowFullScreen
