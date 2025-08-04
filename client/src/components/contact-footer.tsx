@@ -17,10 +17,10 @@ export default function ContactFooter() {
           {/* Contact Info */}
           <div className="lg:col-span-2">
             <div className="glass-effect p-8 rounded-xl">
-              <h3 className="text-2xl font-semibold mb-6">Alex Chen</h3>
+              <h3 className="text-2xl font-semibold mb-6">Ron Osmani</h3>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                Aerospace Engineer & Drone Enthusiast passionate about autonomous flight systems. 
-                Currently developing next-generation UAV technology for civilian and commercial applications.
+                8th Grade Student & Drone Enthusiast passionate about using technology to save lives. 
+                Currently developing the FireHawk drone system for emergency response and life-saving missions.
               </p>
               
               <div className="space-y-4">
@@ -30,7 +30,7 @@ export default function ContactFooter() {
                   </div>
                   <div>
                     <div className="text-gray-400 text-sm">Email</div>
-                    <div className="text-white">alex.chen@aerodrone.dev</div>
+                    <div className="text-white">ronosmani29@gmail.com</div>
                   </div>
                 </div>
 
@@ -40,7 +40,7 @@ export default function ContactFooter() {
                   </div>
                   <div>
                     <div className="text-gray-400 text-sm">Location</div>
-                    <div className="text-white">San Francisco, CA</div>
+                    <div className="text-white">Skopje, North Macedonia</div>
                   </div>
                 </div>
 
@@ -49,8 +49,8 @@ export default function ContactFooter() {
                     <Briefcase className="w-5 h-5" />
                   </div>
                   <div>
-                    <div className="text-gray-400 text-sm">Available for</div>
-                    <div className="text-white">Collaboration & Consulting</div>
+                    <div className="text-gray-400 text-sm">Mission</div>
+                    <div className="text-white">Building Drones to Save Lives</div>
                   </div>
                 </div>
               </div>
@@ -85,7 +85,7 @@ export default function ContactFooter() {
                 <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
                 <span className="text-green-400 font-semibold">Active Development</span>
               </div>
-              <p className="text-sm text-gray-400">Last updated: November 2024</p>
+              <p className="text-sm text-gray-400">Last updated: December 2025</p>
             </div>
           </div>
         </div>
@@ -103,7 +103,7 @@ export default function ContactFooter() {
             </div>
             
             <div className="text-gray-400 text-sm">
-              © 2024 Alex Chen. Open source project under MIT License.
+              © 2025 Ron Osmani. Open source project under MIT License.
             </div>
             
             <div className="flex space-x-6 text-sm">

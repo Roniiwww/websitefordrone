@@ -1,6 +1,6 @@
 # Overview
 
-This is a full-stack web application built with React frontend and Express.js backend, showcasing the "AeroDrone X1" - a drone project website. The application features a modern, dark-themed landing page with sections for gallery, demo videos, features, code repository information, and contact details. It uses a monorepo structure with shared schema definitions and includes database integration capabilities with Drizzle ORM.
+This is a full-stack web application built with React frontend and Express.js backend, showcasing the "FireHawk" - a life-saving drone project website by Ron Osmani, an 8th grade student from Skopje, North Macedonia. The application features a modern, dark-themed landing page with sections for gallery, demo videos, features, code repository information, and contact details. The project focuses on building autonomous drone technology for emergency response and life-saving missions. It uses a monorepo structure with shared schema definitions and includes database integration capabilities with Drizzle ORM.
 
 # User Preferences
 

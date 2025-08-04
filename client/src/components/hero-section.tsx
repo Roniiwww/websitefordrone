@@ -25,8 +25,8 @@ export default function HeroSection() {
           FireHawk
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-          Next-generation autonomous drone with advanced GPS navigation, real-time video streaming, 
-          and intelligent flight control systems. Built with cutting-edge technology for professional aerial photography and surveillance.
+          Life-saving autonomous drone designed for emergency response missions. Equipped with advanced GPS navigation, 
+          real-time HD video streaming, and intelligent flight control systems to help save lives in critical situations.
         </p>
         
         <div className="flex flex-col sm:flex-row justify-center items-center gap-6 mb-12">
