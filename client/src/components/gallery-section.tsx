@@ -31,21 +31,17 @@ export default function GallerySection() {
         </div>
 
         {/* Gallery Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
           <div className="glass-effect p-6 rounded-xl">
-            <div className="text-3xl font-bold text-[var(--cyber-blue)] mb-2">500+</div>
+            <div className="text-3xl font-bold text-[var(--cyber-blue)] mb-2">50</div>
             <div className="text-gray-400">Flight Hours</div>
           </div>
           <div className="glass-effect p-6 rounded-xl">
-            <div className="text-3xl font-bold text-[var(--cyber-purple)] mb-2">1TB</div>
+            <div className="text-3xl font-bold text-[var(--cyber-purple)] mb-2">100GB</div>
             <div className="text-gray-400">Footage Captured</div>
           </div>
           <div className="glass-effect p-6 rounded-xl">
-            <div className="text-3xl font-bold text-[var(--cyber-blue)] mb-2">100+</div>
-            <div className="text-gray-400">Missions</div>
-          </div>
-          <div className="glass-effect p-6 rounded-xl">
-            <div className="text-3xl font-bold text-[var(--cyber-purple)] mb-2">99.9%</div>
+            <div className="text-3xl font-bold text-[var(--cyber-blue)] mb-2">90%</div>
             <div className="text-gray-400">Success Rate</div>
           </div>
         </div>
