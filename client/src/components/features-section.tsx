@@ -13,22 +13,9 @@ export default function FeaturesSection() {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12 items-center mb-20">
-          {/* Feature Image */}
-          <div className="order-2 lg:order-1">
-            <div className="gradient-border">
-              <div className="gradient-border-content p-4">
-                <img 
-                  src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400" 
-                  alt="Advanced drone technology components" 
-                  className="w-full h-80 object-cover rounded-lg" 
-                />
-              </div>
-            </div>
-          </div>
-
+        <div className="max-w-4xl mx-auto mb-20">
           {/* Features List */}
-          <div className="order-1 lg:order-2 space-y-8">
+          <div className="space-y-8">
             <div className="glass-effect p-6 rounded-xl hover:bg-white/5 transition-all duration-300 group">
               <div className="flex items-start space-x-4">
                 <div className="w-12 h-12 bg-gradient-to-br from-[var(--cyber-blue)] to-[var(--cyber-purple)] rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
