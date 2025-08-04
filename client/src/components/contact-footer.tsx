@@ -1,4 +1,4 @@
-import { Mail, MapPin, Briefcase, Linkedin, Twitter, Github } from "lucide-react";
+import { Mail, MapPin, Briefcase, Github } from "lucide-react";
 
 export default function ContactFooter() {
   return (
@@ -62,17 +62,7 @@ export default function ContactFooter() {
             <div className="glass-effect p-6 rounded-xl text-center">
               <h4 className="text-lg font-semibold mb-4">Connect</h4>
               <div className="space-y-3">
-                <a href="#" className="flex items-center justify-center space-x-3 p-3 bg-white/5 hover:bg-white/10 rounded-lg transition-all duration-300 hover:scale-105 group">
-                  <Linkedin className="w-5 h-5 text-[var(--cyber-blue)] group-hover:text-white transition-colors" />
-                  <span className="font-semibold">LinkedIn</span>
-                </a>
-                
-                <a href="#" className="flex items-center justify-center space-x-3 p-3 bg-white/5 hover:bg-white/10 rounded-lg transition-all duration-300 hover:scale-105 group">
-                  <Twitter className="w-5 h-5 text-[var(--cyber-purple)] group-hover:text-white transition-colors" />
-                  <span className="font-semibold">Twitter</span>
-                </a>
-                
-                <a href="#" className="flex items-center justify-center space-x-3 p-3 bg-white/5 hover:bg-white/10 rounded-lg transition-all duration-300 hover:scale-105 group">
+                <a href="https://github.com/username/firehawk" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center space-x-3 p-3 bg-white/5 hover:bg-white/10 rounded-lg transition-all duration-300 hover:scale-105 group">
                   <Github className="w-5 h-5 text-[var(--cyber-blue)] group-hover:text-white transition-colors" />
                   <span className="font-semibold">GitHub</span>
                 </a>
